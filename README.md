@@ -42,5 +42,21 @@ Identifying design properties in a mockup is essential for maintaining consisten
 - **Brand Identity:** Consistent design choices reinforce trust and recognition, especially in user-facing platforms like booking systems.
 - **Efficiency:** Reusable styles and components speed up development and make future updates easier to manage.
 
+##  Project Roles and Responsibilities
+
+This project follows a collaborative development model with clearly defined roles to ensure smooth execution, accountability, and high-quality outcomes.
+
+| Role               | Responsibilities                                                                                          | Contribution to Success                                                                 |
+|--------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **Project Manager** | Oversees project timeline, coordinates team efforts, tracks deliverables, and ensures milestones are met. | Maintains momentum, resolves conflicts, and keeps the team aligned with goals.           |
+| **Frontend Developers** | Build responsive UI components, integrate APIs, and ensure cross-device compatibility.                  | Deliver intuitive user interfaces and seamless user experiences.                         |
+| **Backend Developers** | Develop RESTful APIs, manage databases, and implement business logic and authentication.                | Power the application’s core functionality and ensure data integrity.                    |
+| **Designers**       | Create mockups, define design systems, and ensure visual and UX consistency across the app.               | Shape the user experience and maintain brand identity through thoughtful design.         |
+| **QA/Testers**      | Write test cases, perform manual and automated testing, and report bugs.                                  | Ensure reliability, catch issues early, and uphold product quality.                      |
+| **DevOps Engineers**| Set up CI/CD pipelines, manage deployment environments, and monitor server health.                        | Enable smooth releases and maintain infrastructure stability.                            |
+| **Product Owner**   | Define feature requirements, prioritize backlog items, and represent stakeholder interests.                | Aligns the product with user needs and business goals.                                   |
+| **Scrum Master**    | Facilitate agile ceremonies, remove blockers, and promote team collaboration.                             | Keeps the team agile, focused, and continuously improving.                               |
+
+
 
 
