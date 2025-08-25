@@ -57,6 +57,35 @@ This project follows a collaborative development model with clearly defined role
 | **Product Owner**   | Define feature requirements, prioritize backlog items, and represent stakeholder interests.                | Aligns the product with user needs and business goals.                                   |
 | **Scrum Master**    | Facilitate agile ceremonies, remove blockers, and promote team collaboration.                             | Keeps the team agile, focused, and continuously improving.                               |
 
+Absolutely, Amanuel! Here's a clean and professional section you can add to your `README.md` under the heading **🧩 UI Component Patterns**:
+
+---
+
+##  UI Component Patterns
+
+This project will use a component-based architecture to ensure reusability, consistency, and scalability across the application. Below are the key UI components planned for development:
+
+### 🔹 Navbar  
+- Displays logo and brand identity  
+- Includes search bar for property lookup  
+- User navigation (login, profile, bookings)  
+- Responsive menu for mobile and tablet views  
+
+### 🔹 Property Card  
+- Property image preview  
+- Basic details: price, location, rating  
+- Favorite button for user interaction  
+- Responsive layout for grid display  
+
+### 🔹 Footer  
+- Site navigation links (About, Help, Terms)  
+- Company information and branding  
+- Social media icons  
+- Copyright notice  
+
+Each component will be designed with accessibility and responsiveness in mind, following best practices for layout, interaction, and visual hierarchy. These patterns will serve as building blocks for the core user experience.
+
+
 
 
 
