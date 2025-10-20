@@ -1,6 +1,6 @@
 # airbnb-clone-project
 A full-stack clone of AirBnB built for the Pro Front End Development track. Features property listings, detailed views, secure booking, and responsive design. Tech stack includes React, HTML/CSS, GitHub, and Figma. Focused on UX, accessibility, and clean component architecture.
-Certainly! Here's a concise and well-aligned section you can add directly below your project description in the `README.md`:
+
 
 # UI/UX Design Planning  
 This project emphasizes intuitive booking flow, mobile-first responsiveness, and visual consistency. Key features include property search with filters, detailed property views, and a secure checkout process. Design goals focus on fast loading, accessibility, and user trust.
@@ -13,9 +13,6 @@ This project emphasizes intuitive booking flow, mobile-first responsiveness, and
 | Listing Detailed View   | Full property info, image gallery, pricing, and booking form.              |
 | Simple Checkout View    | Streamlined payment and confirmation interface with user details.          |
 
-Absolutely, Amanuel! Here's a clean breakdown you can include in your `README.md` under a new section titled **🎨 Design Specifications**:
-
----
 
 ##  Design Specifications
 
@@ -57,9 +54,6 @@ This project follows a collaborative development model with clearly defined role
 | **Product Owner**   | Define feature requirements, prioritize backlog items, and represent stakeholder interests.                | Aligns the product with user needs and business goals.                                   |
 | **Scrum Master**    | Facilitate agile ceremonies, remove blockers, and promote team collaboration.                             | Keeps the team agile, focused, and continuously improving.                               |
 
-Absolutely, Amanuel! Here's a clean and professional section you can add to your `README.md` under the heading **🧩 UI Component Patterns**:
-
----
 
 ##  UI Component Patterns
 
